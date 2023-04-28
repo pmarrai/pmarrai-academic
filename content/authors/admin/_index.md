@@ -4,9 +4,7 @@ role: Research Infrastructure Enthusiast
 avatar_filename: paloma_foto.png
 bio: XYXY
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Research
 social:
   - icon: twitter
     icon_pack: fab
@@ -52,6 +50,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+XYXY
 {style="text-align: justify;"}
